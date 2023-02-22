@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cameronholt16
-- 👀 I’m interested in data and life sciences
-- 🌱 I’m currently learning to use python to solve problems in biology
+- 👀 I’m interested in using computers to solve problems
 - 📫 Email cameronholt104@gmail.com
 
 <!---
